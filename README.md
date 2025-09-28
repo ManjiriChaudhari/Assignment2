@@ -13,6 +13,7 @@ Script: `task1.py`
 - Displays the final sum.
 Script: `task2.py`
 
+
 How to Run
 1. Clone this repository.
 2. Run the Python scripts using:
